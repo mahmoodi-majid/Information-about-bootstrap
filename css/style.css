@@ -11,9 +11,23 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-  
-    
 }
 .hader-mine p {
     font-size: 3vw;
+}
+.mine-hader {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.mine-hader span {
+    font-size: 70px;
+}
+.mine-hader i {
+    font-size: 70px;
+}
+.mine-hader h2 {
+    font-size:3vw;
+}
+.mine-hader p {
+    font-size:1.8vw;
+    font-weight: 100;
 }
