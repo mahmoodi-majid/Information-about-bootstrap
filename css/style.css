@@ -31,3 +31,24 @@
     font-size:1.8vw;
     font-weight: 100;
 }
+.min-content1 {
+    background-image: url(../img/bg-showcase-1.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.min-content2 {
+    background-image: url(../img/bg-showcase-2.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.min-content3 {
+    background-image: url(../img/bg-showcase-3.jpg);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
