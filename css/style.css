@@ -2,3 +2,18 @@
     margin: 0;
     box-sizing: border-box;
 }
+.hader-nav {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.hader-mine {
+    background-image: linear-gradient(rgba(00,00,00,0.7),rgba(00,00,00,0.7)),url(../img/bg-masthead.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+    
+}
+.hader-mine p {
+    font-size: 3vw;
+}
