@@ -58,3 +58,10 @@
 .mine-footer h2 {
     font-size: 2vw;
 }
+.footer-hader {
+    background-image: linear-gradient(rgba(00,00,00,0.7),rgba(00,00,00,0.7)),url(../img/bg-masthead.jpg);
+    min-height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
