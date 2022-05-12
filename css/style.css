@@ -52,3 +52,9 @@
     background-size: cover;
     background-position: center;
 }
+.mine-footer {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.mine-footer h2 {
+    font-size: 2vw;
+}
